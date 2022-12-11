@@ -1,0 +1,15 @@
+C:\Users\cmand\Documents\Coding-Train\Coding-Train\Coding-Train\bin\Debug\net7.0\Coding-Train.exe
+C:\Users\cmand\Documents\Coding-Train\Coding-Train\Coding-Train\bin\Debug\net7.0\Coding-Train.deps.json
+C:\Users\cmand\Documents\Coding-Train\Coding-Train\Coding-Train\bin\Debug\net7.0\Coding-Train.runtimeconfig.json
+C:\Users\cmand\Documents\Coding-Train\Coding-Train\Coding-Train\bin\Debug\net7.0\Coding-Train.dll
+C:\Users\cmand\Documents\Coding-Train\Coding-Train\Coding-Train\bin\Debug\net7.0\Coding-Train.pdb
+C:\Users\cmand\Documents\Coding-Train\Coding-Train\Coding-Train\obj\Debug\net7.0\Coding-Train.csproj.AssemblyReference.cache
+C:\Users\cmand\Documents\Coding-Train\Coding-Train\Coding-Train\obj\Debug\net7.0\Coding-Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmand\Documents\Coding-Train\Coding-Train\Coding-Train\obj\Debug\net7.0\Coding-Train.AssemblyInfoInputs.cache
+C:\Users\cmand\Documents\Coding-Train\Coding-Train\Coding-Train\obj\Debug\net7.0\Coding-Train.AssemblyInfo.cs
+C:\Users\cmand\Documents\Coding-Train\Coding-Train\Coding-Train\obj\Debug\net7.0\Coding-Train.csproj.CoreCompileInputs.cache
+C:\Users\cmand\Documents\Coding-Train\Coding-Train\Coding-Train\obj\Debug\net7.0\Coding-Train.dll
+C:\Users\cmand\Documents\Coding-Train\Coding-Train\Coding-Train\obj\Debug\net7.0\refint\Coding-Train.dll
+C:\Users\cmand\Documents\Coding-Train\Coding-Train\Coding-Train\obj\Debug\net7.0\Coding-Train.pdb
+C:\Users\cmand\Documents\Coding-Train\Coding-Train\Coding-Train\obj\Debug\net7.0\Coding-Train.genruntimeconfig.cache
+C:\Users\cmand\Documents\Coding-Train\Coding-Train\Coding-Train\obj\Debug\net7.0\ref\Coding-Train.dll
